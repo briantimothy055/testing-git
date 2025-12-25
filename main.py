@@ -17,3 +17,6 @@ def another_2():
 
 def another_3():
     feature(['test', 'testing', 'qwert'])
+
+def final():
+    exit(0)
