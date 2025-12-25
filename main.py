@@ -13,3 +13,7 @@ def another_1():
 
 def another_2():
     feature(['', '', ''])
+
+
+def another_3():
+    feature(['test', 'testing', 'qwert'])
