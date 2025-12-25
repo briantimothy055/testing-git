@@ -9,3 +9,7 @@ def feature(data: list[str]) -> str:
 
 def another_1():
     feature([])
+
+
+def another_2():
+    feature(['', '', ''])
