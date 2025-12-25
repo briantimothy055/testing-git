@@ -6,3 +6,6 @@ def feature(data: list[str]) -> str:
         result += s
 
     return result
+
+def another_1():
+    feature([])
